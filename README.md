@@ -1,2 +1,2 @@
 # ILU
-Source code of the I Love U malware
+Source code of the ILU Malware in C++
