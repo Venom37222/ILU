@@ -1,6 +1,6 @@
-// Source code of the ILU malware, in C++
+///// Source code of the ILU malware, in C++
           
-         */Coded by : Venom37222/*
+         ////*Coded by : Venom37222*/////
 
 #include <stdio.h>
 #include <unistd.h>
