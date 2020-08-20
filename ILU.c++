@@ -1,3 +1,7 @@
+// Source code of the ILU malware, in C++
+          
+         */Coded by : Venom37222/*
+
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
@@ -9,7 +13,7 @@
 #include <net/if.h>
 #ifdef __sun__
 #include <sys/sockio.h>
-#endif /* __SunOS__ */
+#endif
 
 #define DEBUG_ING
 #undef DEBUG_ING
